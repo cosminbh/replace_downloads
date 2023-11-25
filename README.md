@@ -1,1 +1,2 @@
 # replace_downloads
+This Python3 script showcases a Man-In-the-Middle (MITM) attack technique where the attacker manipulates HTTP responses to redirect the victim's download requests to a potentially malicious file hosted by the attacker. The script leverages the netfilterqueue and scapy libraries to intercept and modify network traffic, demonstrating the potential risks associated with unsecured downloads.
